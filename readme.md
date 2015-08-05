@@ -6,6 +6,8 @@ For this exercise, you will be using your knowledge of HTML and Twitter Bootstra
 
 1. Fork and clone the repository or create your own local repository and place your HTML files there.
 2. Make sure to commit frequently!
+3. For placeholder images use [lorempixel](http://lorempixel.com)
+4. For icons check out [Font Awesome](http://fortawesome.github.io/Font-Awesome/get-started/) 
 
 ### Bonus
 
